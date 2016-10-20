@@ -1,2 +1,2 @@
-# bash_colors
+# bash-colors
 Bash Colors
